@@ -17,7 +17,7 @@ React/HTML-CSS-JavaScript (for frontend UI) (if applicable)
 SQL/NoSQL (for storing product and user data)
 
 **Dataset**
-The system uses a dataset containing product information and user interactions, including:
+The system uses a amazon dataset containing 1000+ product information and user interactions, including:
 product_name, category, discounted_price, rating, user_id, review_content, etc.
 
 **How It Works**
